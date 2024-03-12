@@ -12,7 +12,7 @@
  
  🔭 Atualmente estou cursando o 4 período da faculdade de Sistemas de Informação **SI**
  
- 🌱 Estou aprimorando os meus conhecimentos em **JAVA, Angular, Spring e Banco de Dados** através de um BootCamp
+ 🌱 Estou aprimorando os meus conhecimentos em **Front end, UX e UI Design** através dos cursos da Origamid
 
  💬 Pergunte-me sobre **Node.js, React, SQL, MongoDB... Caso queira fazer algum comentário --> [Aqui](https://github.com/DEVinicius-jpeg/DEVinicius-jpeg/issues)**
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Linguagens-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,mongodb,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,express,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=react,mysql,html,css,vscode,figma,git" />
 </div>
 
